@@ -1,0 +1,12 @@
+{
+    "comidas": {
+        "feijoada": {
+            "ingredientes": "Joelho de porco, feij\u00e3o preto e Lingui\u00e7a Paio",
+            "modo de preparo": "Desalgar as carnes..."
+        },
+        "cuzcuz": {
+            "ingredientes": "farinha de milho",
+            "modo de preparo": "colocar em banho maria por 20 min"
+        }
+    }
+}
